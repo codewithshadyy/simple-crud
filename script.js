@@ -77,3 +77,6 @@ window.deleteUser = deleteUser;
 
 
 renderTable()
+
+
+const usersStored = []
